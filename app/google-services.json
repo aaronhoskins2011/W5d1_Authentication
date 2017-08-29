@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "464150427464",
+    "firebase_url": "https://w5d1authentication.firebaseio.com",
+    "project_id": "w5d1authentication",
+    "storage_bucket": "w5d1authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464150427464:android:fe961e3ccbfde8e3",
+        "android_client_info": {
+          "package_name": "com.aaron.w5d1_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464150427464-0pspur5ceu3nhnfk7uoehv2932h8hsbj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aaron.w5d1_authentication",
+            "certificate_hash": "d36c6e6e2a7dc12bc0e88956a1c8737822f48d03"
+          }
+        },
+        {
+          "client_id": "464150427464-7n4ro9bh2482t9bqevruh4agoujgm2jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHV3E0cx5H9ikMT0a3ZnpZr8_IYO1KFXA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464150427464-7n4ro9bh2482t9bqevruh4agoujgm2jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

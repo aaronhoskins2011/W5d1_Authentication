@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">W5d1_Authentication</string>
+    <string name="facebook_app_id">713881865479830</string>
+    <string name="fb_login_protocol_scheme">fb713881865479830</string>
+    <string name="google_client_id">814627709318-96g7lstsce9k6veot09arko3afh0rflb.apps.googleusercontent.com</string>
+</resources>
